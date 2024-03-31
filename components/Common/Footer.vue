@@ -4,7 +4,7 @@
 			<!-- Left -->
 			<div class="text-[14px] h-[30px]">
 				<span
-					>Powered by 老胡
+					>Powered by
 					<a
 						href="https://www.12306free.com/"
 						target="_blank"
